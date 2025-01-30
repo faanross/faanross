@@ -1,16 +1,19 @@
-## Hi there 👋
+## hi.
 
-<!--
-**faanross/faanross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a security researcher at [Active Countermeasures](https://www.activecountermeasures.com) that ponders one specific question: **how to detect C2 malware**.
 
-Here are some ideas to get you started:
+While most tackle this problem by looking at the endpoint, my interest lies in taking a **network threat hunting** approach.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Why? Because **all applications stand naked before the Network Gods**. That's my pretentious way of saying that on the network, there's nowhere to hide. The issue isn't whether it's there, but rather **how to find it buried inside of the chaotic deluge of legitimate traffic**.
+
+In the quest to become hopefully somewhat competent at this I like tackling the challenge from both angles.
+
+Donning my defensive hat I think about ways to tease out C2/RAT communication by taking a **statistical + fingerprinting approach to analyze network traffic**. Though the specifics differ depending on the exact question I'm asking, the common thread almost always involves the use of **Zeek + custom Python tooling**.
+
+And to better understand exactly how C2 communicates, as well as how it could still potentially communicate, I **develop C2 emulation tools**, mostly in Go and .NET. 
+
+If you have any questions or feedback, feel free to connect with me - **moi@faanross.com**. 
+
+Live long and prosper.
+
+Faan
