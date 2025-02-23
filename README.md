@@ -1,6 +1,6 @@
 ## hi.
 
-I'm a security researcher at [Active Countermeasures](https://www.activecountermeasures.com) that ponders one specific question: **how to detect C2 malware**.
+I'm a security researcher at [Active Countermeasures](https://www.activecountermeasures.com) that ponders one specific question: **how to detect C2 frameworks**.
 
 While most tackle this problem by looking at the endpoint, my interest lies in taking a **network threat hunting** approach.
 
