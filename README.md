@@ -8,7 +8,7 @@ Why? Because **all applications stand naked before the Network Gods**. That's my
 
 In the quest to become hopefully somewhat competent at this I like approaching the challenge from both sides.
 
-Donning my defensive hat I think about ways to tease out C2 communication by taking a **statistical + fingerprinting approach to analyze network traffic**. Though the specifics differ depending on the exact question I'm asking, the common thread almost always involves the use of **Zeek + custom Python tooling**.
+Donning my defensive hat I think about ways to tease out C2 communication by taking a **statistical + fingerprinting approach to analyze network traffic**. Though the specifics differ depending on the exact question I'm asking, the common thread almost always involves the use of **Zeek + Python**.
 
 And to better understand exactly how C2 communicates, as well as how it could still potentially communicate, I **develop C2 emulation tools**, mostly in Go. 
 
