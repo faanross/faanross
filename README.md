@@ -6,7 +6,7 @@ In the quest to become hopefully somewhat competent at this I like approaching t
 
 Donning my defensive hat I think about ways to tease out C2 communication by taking a **statistical + fingerprinting approach**. 
 
-And to better understand exactly **how C2 communicates**, or even better, it **_could_ still potentially communicate**, 
+And to better understand exactly **how C2 communicates**, or even better, how it **_could_ still potentially communicate**, 
 I love developing C2 emulation tools, almost exclusively in **Go**.
 
 You can find more of my work - articles, guide, courses etc - [here](https://faanross.com) . 
