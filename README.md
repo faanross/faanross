@@ -1,7 +1,9 @@
 ## hi.
 
 | Researcher -> [Active Countermeasures](https://www.activecountermeasures.com)
+
 | Instructor -> [AntiSyphon](https://www.antisyphontraining.com)
+
 | Founder -> [AionSec](https://www.aionsec.ai)
 
 ___
