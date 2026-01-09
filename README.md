@@ -1,4 +1,3 @@
-## hi.
 
 ⚫ Researcher -> [Active Countermeasures](https://www.activecountermeasures.com)
 
