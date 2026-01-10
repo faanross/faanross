@@ -3,7 +3,7 @@
 
 ⚫ Instructor -> [AntiSyphon](https://www.antisyphontraining.com)
 
-⚫ Founder -> [AionSec](https://www.aionsec.ai)
+⚫ Builder -> [AionSec](https://www.aionsec.ai)
 
 ___
 
