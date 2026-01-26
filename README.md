@@ -7,4 +7,4 @@
 
 ___
 
-"The future is already here – it's just not evenly distributed." - William Gibson
+all flows - heraclitus
