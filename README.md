@@ -1,10 +1,3 @@
-
-⚫ Researcher -> [Active Countermeasures](https://www.activecountermeasures.com)
-
-⚫ Instructor -> [AntiSyphon](https://www.antisyphontraining.com)
-
-⚫ Builder -> [AionSec](https://aionsec.ai)
-
-___
+Building [AionSec](https://aionsec.ai)
 
 all flows - heraclitus
